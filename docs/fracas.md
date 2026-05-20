@@ -430,6 +430,7 @@ The **Corrective Action** section documents the actions that will eliminate or r
 
 Corrective actions should address:
 
+- All of the root causes
 - The cause of the defect
 - The cause of the escape
 - The weakness in the control system
