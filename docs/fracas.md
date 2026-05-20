@@ -32,6 +32,14 @@ The **Problem Statement** is the most important part of the quality clinic. If t
 2. **Network Access**
    - Ensure you are connected to the **DaikinApplied** network to access FRACAS.
 
+3. **Requesting FRACAS Access**
+   - New users requiring FRACAS access or licenses should send a request to:
+     - Dheeraj Sheth — Dheeraj.Sheth@daikinapplied.com
+   - Include:
+     - Name
+     - Site
+     - Department
+     - Reason access is required
 ---
 
 ## Navigating to the PDCA Template
@@ -45,6 +53,8 @@ The **Problem Statement** is the most important part of the quality clinic. If t
 
 2. **Access the PDCA Table**
    - Clicking on **Quality_DaikinPDCA** opens a table view of all PDCA entries.
+   - Select **Qaulity Clinic** and your work site
+   ![FRACAS Table View](../images/fracas_table_view.PNG)
 
 ---
 
@@ -64,6 +74,31 @@ The **Problem Statement** is the most important part of the quality clinic. If t
 
 After opening the new PDCA entry, complete the tabs in order. Most fields should be filled out unless they are clearly not applicable.
 
+- Each tab includes a workflow section, which defaults to 30 days to complete the section.
+- When completed work on that section select the **Next Step** button to complete that section and move to the next.
+![FRACAS Workflow](../images/fracas_workflow_data.png)
+
+### Workflow and Approval Expectations
+
+Each major phase of the PDCA workflow includes a review and approval step.
+
+The workflow image above shows the expected routing and approval process for each section.
+
+The following phases require Quality review before moving forward:
+
+- Root Cause Analysis
+- Corrective Action Plan
+- Effectiveness Verification / Closure
+
+The purpose of these reviews is to ensure:
+
+- The problem statement is clearly defined and quantified
+- Root causes are supported by evidence
+- Corrective actions address both occurrence and escape
+- Corrective actions are validated
+- Monitoring plans are appropriate before closure
+
+These reviews are intended to improve the quality and rigor of the PDCA process and should not be treated as an administrative formality.
 ---
 
 ## 1. Problem Statement Detailed Instructions
