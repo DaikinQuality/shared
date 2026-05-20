@@ -23,7 +23,7 @@ The **Problem Statement** is the most important part of the quality clinic. If t
 ## Accessing FRACAS
 
 1. **Login with SSO**
-   - Navigate to the FRACAS login page.
+   - Navigate to the [FRACAS](https://app.relyence.com/Account/Login?ReturnUrl=%2F) login page.
    - Use Single Sign-On (SSO).
    - Make sure the network is set as **DaikinApplied**.
 
