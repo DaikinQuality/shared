@@ -39,6 +39,7 @@ The **Problem Statement** is the most important part of the quality clinic. If t
 1. **Locate the PDCA Template**
    - On the left side of the screen, find the navigation tree.
    - Go to **Quality -> Quality_DaikinPDCA**.
+   - Select **Quality Clinic** not **Issues**
 
    ![Quality_DaikinPDCA](../images/QUALITY_DaikinPDCA.PNG)
 
