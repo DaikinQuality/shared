@@ -66,7 +66,7 @@ The **Problem Statement** is the most important part of the quality clinic. If t
    ![Insert new PDCA](../images/insert_pdca.PNG)
 
 2. **Open the New PDCA Entry**
-   - Double-click the newly created entry to begin entering data.
+   - Clicking the **To Form** button on the top right of the table opens the quality clinic.
 
 ---
 
