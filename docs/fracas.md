@@ -74,7 +74,7 @@ The **Problem Statement** is the most important part of the quality clinic. If t
 
 After opening the new PDCA entry, complete the tabs in order. Most fields should be filled out unless they are clearly not applicable.
 
-- Each tab includes a workflow section, which defaults to 30 days to complete the section.
+- Each tab includes a workflow section, which defaults to the required time to complete the section.
 - When completed work on that section select the **Next Step** button to complete that section and move to the next.
 ![FRACAS Workflow](../images/fracas_workflow_data.png)
 
