@@ -54,7 +54,7 @@ The **Problem Statement** is the most important part of the quality clinic. If t
 2. **Access the PDCA Table**
    - Clicking on **Quality_DaikinPDCA** opens a table view of all PDCA entries.
    - Select **Qaulity Clinic** and your work site
-   ![FRACAS Table View](../images/fracas_table_view.PNG)
+   ![FRACAS Table View](../images/fracas_table_view.png)
 
 ---
 
